@@ -1,0 +1,13 @@
+# Ignore Endianness Conversion files
+endianess_conversion.c
+endianess_conversion
+
+# Ignore compiled files
+a.out
+main
+*.exe
+*.o
+
+# Ignore MP3 files
+song.mp3
+temp.mp3
